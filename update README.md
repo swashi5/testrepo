@@ -1,2 +1,3 @@
 # testrepo
-new set up
+Testing repository 
+This is the first markdown file
